@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashendrasharma" alt="ashendrasharma" /></a> </p>
 
-- 🔭 I’m currently working on **GaussianTimeSeries_MLOps_AWS_Deployment**
+- 🔭 I’m currently working on **Gaussian TimeSeries MLOps AWS Deployment**
 
 - 🌱 I’m currently learning **langchain, LLM's**
 
-- 🤝 I’m looking for help with **customer-support-chatbot-with-open-llm-and-langchain**
+- 🤝 I’m looking for help with **customer support chatbot with open llm and langchain**
 
 - 👨‍💻 All of my projects are available at [https://ashendrasharma.github.io](https://ashendrasharma.github.io)
 
